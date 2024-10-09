@@ -1,2 +1,3 @@
 gunicorn
 Flask
+striprtf==0.0.26
